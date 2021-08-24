@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Following the prework notes and videos helped in the creation of the Simple Todo app.
 
 ## License
 
